@@ -1,5 +1,5 @@
 # Multi-Layer_Perceptron
-A project, for which i hand derived backwards propagation equations...
+A Less polished NN that I made.
 
 ## Installation
 1) Git Clone
